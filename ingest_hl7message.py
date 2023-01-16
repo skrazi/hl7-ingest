@@ -1,3 +1,3 @@
 import sys
 
-print(sys.stdin)
+print("MSH" + sys.stdin)
